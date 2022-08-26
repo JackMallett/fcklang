@@ -1,0 +1,18 @@
+x = 5
+
+
+a = 'fuck'
+b = 'shit'
+c = 'fuck'
+t = 'fuck'
+say(a)
+d = a + b + c
+say(d)
+
+g = a == c == t
+say(g)
+z = x + 6 + 2
+
+say(z)
+
+
